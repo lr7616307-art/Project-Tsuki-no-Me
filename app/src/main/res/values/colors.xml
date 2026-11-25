@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="paper">#F3EFE6</color>
+    <color name="paper_deep">#E7E1D4</color>
+    <color name="surface">#FFFDF8</color>
+    <color name="ink">#1C1B19</color>
+    <color name="muted">#6E685F</color>
+    <color name="gold">#8C6A2F</color>
+    <color name="gold_soft">#C6A15B</color>
+    <color name="line">#E0D8C8</color>
+    <color name="danger">#8C3A32</color>
+    <color name="on_gold">#1C1B19</color>
+    <color name="icon_bg">#16181F</color>
+    <color name="scrim">#CC121318</color>
+</resources>

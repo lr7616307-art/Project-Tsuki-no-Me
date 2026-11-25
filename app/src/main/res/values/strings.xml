@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project Tsuki no Me</string>
+    <string name="close">Close</string>
+    <string name="empty_range">No videos found in this range. Adjust the range in Settings.</string>
+</resources>
